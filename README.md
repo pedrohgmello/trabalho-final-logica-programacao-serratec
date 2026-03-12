@@ -175,9 +175,7 @@ _Abaixo estão os desafios abordados neste repositório. Clique em cada um para 
    ![Imagem de exemplo para abrir um arquivo parte 2](/IMG_EXEMPLO/image-2.png)
 
 5. Clique no botão Executar (Play).
-   ![Imagem de exemplo para Executar o código](/IMG_EXEMPLO/image-3.png)
-
----
+   ![Imagem de exemplo para Executar o código](/IMG_EXEMPLO/image-4.png)
 
 # 👥 Colaboradores
 
