@@ -17,11 +17,6 @@ Durante o desenvolvimento no **Portugol Studio**, exploramos os seguintes pilare
 - **Modularização:** Organização do código através de Sub-rotinas, Funções e Recursividade, além do uso de Bibliotecas nativas (ex: `Texto`, `Matematica`).
 - **Gestão de Dados:** Manipulação de coleções via Vetores e Matrizes, e aplicação de estruturas lineares como Filas e Pilhas.
 
-## 💻 Tecnologias Utilizadas
-
-Linguagem: Portugol (Pseudo-código)
-IDE: Portugol Studio
-
 ## 🚀 Como Executar os Exercícios
 
 Clone o repositório: _trabalho-final-logica-programacao-serratec_
