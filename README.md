@@ -167,7 +167,7 @@ _Abaixo estão os desafios abordados neste repositório. Clique em cada um para 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec.git](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec.git)
+   git clone https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec.git
    ```
 2. Abra o Portugol Studio.
 3. No menu superior, clique em Arquivo > Abrir Arquivo.
