@@ -32,9 +32,9 @@ _Abaixo estão os desafios abordados neste repositório. Clique em cada um para 
 
 <details>
 <summary>
-
 <b>1. Algoritmo / Entrada e Saída de Dados</b>
-_Exercícios focados principalmente em ler dados, validar entrada e apresentar resultados._
+<br><i>Exercícios focados principalmente em ler dados, validar entrada e apresentar resultados.</i>
+</summary>
 
 - Questão 17 – Média de altura de homens e mulheres
 - Questão 20 – Sistema de login com bloqueio após 3 tentativas
@@ -44,14 +44,13 @@ _Exercícios focados principalmente em ler dados, validar entrada e apresentar r
 >   - Variáveis
 >   - Condições simples
 
-</summary>
 </details>
 
 <details>
 <summary>
-
 <b>2. Operadores (Aritméticos, Relacionais e Lógicos)</b>
-_Exercícios que exigem operações matemáticas ou comparações como parte central da lógica._
+<br><i>Exercícios que exigem operações matemáticas ou comparações como parte central da lógica.</i>
+</summary>
 
 - Questão 1 – Exibir divisores de um número
 - Questão 8 – Verificar se um número é primo
@@ -60,14 +59,13 @@ _Exercícios que exigem operações matemáticas ou comparações como parte cen
 >   - Operadores aritméticos (%, /, \*)
 >   - Operadores relacionais (==, !=, <, >)
 
-</summary>
 </details>
 
 <details>
 <summary>
-
 <b>3. Desvios Condicionais (Se / Senão)</b>
-_Exercícios cujo foco principal é tomar decisões com base em condições._
+<br><i>Exercícios cujo foco principal é tomar decisões com base em condições.</i>
+</summary>
 
 - Questão 7 – Verificar se um número é palíndromo
 - Questão 19 – Contar números positivos até entrada negativa
@@ -76,14 +74,13 @@ _Exercícios cujo foco principal é tomar decisões com base em condições._
 >   - if / else
 >   - ccomparações lógicas
 
-</summary>
 </details>
 
 <details>
 <summary>
-
 <b>4. Laços de Repetição (Para, Enquanto, Faça Enquanto)</b>
-_Exercícios que dependem principalmente de repetições para gerar resultados._
+<br><i>Exercícios que dependem principalmente de repetições para gerar resultados.</i>
+</summary>
 
 - Questão 9 – Sequência de Fibonacci
 - Questão 14 – Triângulo retângulo de altura N
@@ -92,14 +89,13 @@ _Exercícios que dependem principalmente de repetições para gerar resultados._
 >   - for / while
 >   - controle de repetição
 
-</summary>
 </details>
 
 <details>
 <summary>
-
 <b>5. Subrotinas (Funções e Recursividade)</b>
-_Exercícios cujo objetivo principal é dividir o algoritmo em funções ou aplicar recursão_
+<br><i>Exercícios cujo objetivo principal é dividir o algoritmo em funções ou aplicar recursão</i>
+</summary>
 
 - Questão 4 – Função de potenciação sem biblioteca
 - Questão 10 – Inverter cadeia recursivamente
@@ -112,14 +108,13 @@ _Exercícios cujo objetivo principal é dividir o algoritmo em funções ou apli
 >   - retorno
 >   - recursividade
 
-</summary>
 </details>
 
 <details>
 <summary>
-
 <b>6. Estruturas de Dados – Vetores</b>
-_Exercícios focados na manipulação de listas de dados._
+<br><i>Exercícios focados na manipulação de listas de dados.<i>
+</summary>
 
 - Questão 3 – Separar números pares e ímpares de um vetor
 - Questão 5 – Ordenação de vetor
@@ -131,14 +126,13 @@ _Exercícios focados na manipulação de listas de dados._
 >   - loops
 >   - manipulação de posições
 
-</summary>
 </details>
 
 <details>
 <summary>
-
 <b>7. Estruturas de Dados – Vetores</b>
-_Exercícios que trabalham com dados organizados em tabela (linhas e colunas)._
+<br><i>Exercícios que trabalham com dados organizados em tabela (linhas e colunas).</i>
+</summary>
 
 - Questão 6 – Verificar se matriz é identidade
 - Questão 13 – Maior e menor valor da matriz 4x4
@@ -150,14 +144,13 @@ _Exercícios que trabalham com dados organizados em tabela (linhas e colunas)._
 >   - loops aninhados
 >   - comparação de valores
 
-</summary>
 </details>
 
 <details>
 <summary>
-
 <b>8. Manipulação de Texto</b>
-_Exercícios que trabalham diretamente com strings._
+<br><i>Exercícios que trabalham diretamente com strings.</i>
+</summary>
 
 - Questão 2 – Contar vogais em uma frase
 
@@ -166,7 +159,6 @@ _Exercícios que trabalham diretamente com strings._
 >   - bibliotecas de texto
 >   - laços
 
-</summary>
 </details>
 
 ---
@@ -184,7 +176,7 @@ _Exercícios que trabalham diretamente com strings._
 
 ---
 
-## 👥 Colaboradores
+# 👥 Colaboradores
 
 |                                                                Colaborador / Link pasta                                                                 |                link github                |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------: |
