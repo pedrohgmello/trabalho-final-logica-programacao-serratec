@@ -166,16 +166,16 @@ _Abaixo estão os desafios abordados neste repositório. Clique em cada um para 
    git clone https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec.git
    ```
 2. Abra o Portugol Studio.
-   ![Imagem de exemplo para abri o Portugol Studio.](./IMG_EXEMPLO/image.png)
+   ![Imagem de exemplo para abri o Portugol Studio.](/IMG_EXEMPLO/image.png)
 
 3. No menu superior, clique em Arquivo > Abrir Arquivo.
-   ![Imagem de exemplo para abrir um arquivo parte 1](./IMG_EXEMPLO/image-1.png)
+   ![Imagem de exemplo para abrir um arquivo parte 1](/IMG_EXEMPLO/image-1.png)
 
 4. Selecione o arquivo .por referente ao exercício que deseja testar.
-   ![Imagem de exemplo para abrir um arquivo parte 2](./IMG_EXEMPLO/image-2.png)
+   ![Imagem de exemplo para abrir um arquivo parte 2](/IMG_EXEMPLO/image-2.png)
 
 5. Clique no botão Executar (Play).
-   ![Imagem de exemplo para Executar o código](./IMG_EXEMPLO/image-3.png)
+   ![Imagem de exemplo para Executar o código](/IMG_EXEMPLO/image-3.png)
 
 ---
 
