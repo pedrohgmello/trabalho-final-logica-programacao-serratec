@@ -1,5 +1,4 @@
 /*
-Questão 21 - Encontrar a Linha com Maior Soma em uma Matriz 5x5
 - **Descrição:**
   - Desenvolva um algoritmo que leia uma matriz 5x5 e encontre a linha cuja soma dos elementos seja a maior entre todas.
 */

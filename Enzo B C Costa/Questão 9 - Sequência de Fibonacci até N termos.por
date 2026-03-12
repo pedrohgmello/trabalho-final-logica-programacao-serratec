@@ -1,4 +1,9 @@
-//Questão 9 - Sequência de Fibonacci até N termos
+/*
+- **Descrição:**
+  - Crie um programa que gere os primeiros N termos da sequência de Fibonacci, onde N é informado pelo usuário.
+*/
+
+
 programa
 {
 	funcao inicio()

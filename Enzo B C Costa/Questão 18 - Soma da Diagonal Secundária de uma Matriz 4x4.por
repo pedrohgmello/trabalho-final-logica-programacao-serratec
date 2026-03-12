@@ -1,4 +1,7 @@
-//Questão 18 - Soma da Diagonal Secundária de umaMatriz 4x4
+/*
+- **Descrição:**
+  - Escreva um programa que calcule e exiba a soma dos elementos da diagonal secundária de uma matriz 4x4.
+*/
 programa
 {
 	inclua biblioteca Util

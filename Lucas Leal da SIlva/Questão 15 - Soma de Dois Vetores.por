@@ -1,5 +1,4 @@
 /*
-Questão 15 - Soma de Dois Vetores
 - **Descrição:**
   - Crie um programa que leia dois vetores de 5 posições e gere um terceiro vetor contendo a soma dos valores nas respectivas posições.
 */

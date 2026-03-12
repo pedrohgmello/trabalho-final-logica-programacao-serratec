@@ -1,9 +1,16 @@
+/*
+ **Descrição:**
+  - Faça um programa que leia a altura e o sexo de 5 pessoas e calcule a média da altura das mulheres e dos homens separadamente. O programa deve encerrar quando o usuário digitar uma altura negativa.
+*/
+
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica
+ --> mat
 
 	
-	real somaAlturaHomens = 0.0, somaAlturaMulheres = 0.0
+	
+real somaAlturaHomens = 0.0, somaAlturaMulheres = 0.0
 	inteiro qtdHomens = 0, qtdMulheres = 0
 	const inteiro LEITURA_PESSOAS = 5
 	funcao inicio()

@@ -1,4 +1,7 @@
-//Questão 2 - Contar vogais em uma frase
+/*
+- **Descrição:**
+  - Desenvolva um algoritmo que leia uma frase e conte quantas vogais ela possui. Considere usar bibliotecas.
+*/
 programa
 {
 	inclua biblioteca Texto --> tx

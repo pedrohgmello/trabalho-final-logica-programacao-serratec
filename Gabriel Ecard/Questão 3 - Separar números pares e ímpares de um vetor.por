@@ -1,3 +1,8 @@
+/*
+- **Descrição:**
+  - Crie um programa que leia 10 números inteiros e armazene em um vetor. Depois, separe em dois vetores, um de impares e outro de pares, depois exiba os números ímpares e os pares separadamente.
+*/
+
 programa
 {
 	funcao inicio() // função principal do programa (um senhor codigo gigantesco)

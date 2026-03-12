@@ -1,153 +1,200 @@
-# Trabalho em Grupo
+# 🚀 Exercícios de Lógica e Estrutura de Dados (Portugol)
 
-## Instruções
+Este repositório reúne uma série de exercícios práticos desenvolvidos em grupo, focados na aplicação dos fundamentos da programação estruturada e no desenvolvimento de algoritmos eficientes utilizando a linguagem **Portugol**.
 
-- **Descrição:**
-  - Responda as questões abaixo utilizando a linguagem Portugol. Escreva os algoritmos completos, incluindo declaração de variáveis, entrada e saída de dados, e estruturação correta do código.
+## 📌 Sobre o Projeto
+
+O objetivo principal deste trabalho é demonstrar a capacidade de abstração e resolução de problemas através da lógica de programação. O projeto percorre desde a manipulação básica de dados até o gerenciamento de fluxos complexos e estruturas de memória.
+
+## 🛠️ Conceitos Aplicados
+
+Durante o desenvolvimento no **Portugol Studio**, exploramos os seguintes pilares:
+
+- **Fundamentos de Lógica:** Construção de algoritmos com tipagem de Variáveis e Constantes.
+- **Interatividade:** Fluxos de Entrada e Saída (`leia`/`escreva`) para comunicação com o usuário.
+- **Controle de Fluxo:** Uso de Operadores (Aritméticos, Relacionais e Lógicos) e Desvios Condicionais (`se`/`senao`).
+- **Automação:** Implementação de Laços de Repetição (`para`, `enquanto`, `faca-enquanto`).
+- **Modularização:** Organização do código através de Sub-rotinas, Funções e Recursividade, além do uso de Bibliotecas nativas (ex: `Texto`, `Matematica`).
+- **Gestão de Dados:** Manipulação de coleções via Vetores e Matrizes, e aplicação de estruturas lineares como Filas e Pilhas.
+
+## 💻 Tecnologias Utilizadas
+
+Linguagem: Portugol (Pseudo-código)
+IDE: Portugol Studio
+
+## 🚀 Como Executar os Exercícios
+
+Clone o repositório: _trabalho-final-logica-programacao-serratec_
+
+## 💻 Tecnologias Utilizadas
+
+- **Linguagem:** Portugol _(Pseudo-código)_
+- **IDE:** [Portugol Studio](http://univali.br/portugolstudio)
+
+## 📋 Lista de Exercícios Resolvidos
+
+_Abaixo estão os desafios abordados neste repositório. Clique em cada um para ver a descrição detalhada:_
+
+<details>
+<summary>
+
+<b>1. Algoritmo / Entrada e Saída de Dados</b>
+_Exercícios focados principalmente em ler dados, validar entrada e apresentar resultados._
+
+- Questão 17 – Média de altura de homens e mulheres
+- Questão 20 – Sistema de login com bloqueio após 3 tentativas
+
+> - **Conteúdos envolvidos**:
+>   - Entrada e saída
+>   - Variáveis
+>   - Condições simples
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>2. Operadores (Aritméticos, Relacionais e Lógicos)</b>
+_Exercícios que exigem operações matemáticas ou comparações como parte central da lógica._
+
+- Questão 1 – Exibir divisores de um número
+- Questão 8 – Verificar se um número é primo
+
+> - **Conteúdos envolvidos**:
+>   - Operadores aritméticos (%, /, \*)
+>   - Operadores relacionais (==, !=, <, >)
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>3. Desvios Condicionais (Se / Senão)</b>
+_Exercícios cujo foco principal é tomar decisões com base em condições._
+
+- Questão 7 – Verificar se um número é palíndromo
+- Questão 19 – Contar números positivos até entrada negativa
+
+> - **Conteúdos envolvidos**:
+>   - if / else
+>   - ccomparações lógicas
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>4. Laços de Repetição (Para, Enquanto, Faça Enquanto)</b>
+_Exercícios que dependem principalmente de repetições para gerar resultados._
+
+- Questão 9 – Sequência de Fibonacci
+- Questão 14 – Triângulo retângulo de altura N
+
+> - **Conteúdos envolvidos**:
+>   - for / while
+>   - controle de repetição
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>5. Subrotinas (Funções e Recursividade)</b>
+_Exercícios cujo objetivo principal é dividir o algoritmo em funções ou aplicar recursão_
+
+- Questão 4 – Função de potenciação sem biblioteca
+- Questão 10 – Inverter cadeia recursivamente
+- Questão 12 – Fatorial usando recursão
+- Questão 16 – Função para contar números negativos em vetor
+
+> - **Conteúdos envolvidos**:
+>   - funções
+>   - parâmetros
+>   - retorno
+>   - recursividade
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>6. Estruturas de Dados – Vetores</b>
+_Exercícios focados na manipulação de listas de dados._
+
+- Questão 3 – Separar números pares e ímpares de um vetor
+- Questão 5 – Ordenação de vetor
+- Questão 11 – Média de números pares e ímpares do vetor
+- Questão 15 – Soma de dois vetores
+
+> - **Conteúdos envolvidos**:
+>   - vetores
+>   - loops
+>   - manipulação de posições
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>7. Estruturas de Dados – Vetores</b>
+_Exercícios que trabalham com dados organizados em tabela (linhas e colunas)._
+
+- Questão 6 – Verificar se matriz é identidade
+- Questão 13 – Maior e menor valor da matriz 4x4
+- Questão 18 – Soma da diagonal secundária da matriz
+- Questão 21 – Linha com maior soma da matriz
+
+> - **Conteúdos envolvidos**:
+>   - matrizes
+>   - loops aninhados
+>   - comparação de valores
+
+</summary>
+</details>
+
+<details>
+<summary>
+
+<b>8. Manipulação de Texto</b>
+_Exercícios que trabalham diretamente com strings._
+
+- Questão 2 – Contar vogais em uma frase
+
+> - **Conteúdos envolvidos**:
+>   - strings
+>   - bibliotecas de texto
+>   - laços
+
+</summary>
+</details>
 
 ---
 
-### Questão 1 - Exibir os divisores de um número positivo
+# 🚀 Como Executar os Exercícios
 
-- **Descrição:**
-  - Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.
-
----
-
-### Questão 2 - Contar vogais em uma frase
-
-- **Descrição:**
-  - Desenvolva um algoritmo que leia uma frase e conte quantas vogais ela possui. Considere usar bibliotecas.
-
----
-
-### Questão 3 - Separar números pares e ímpares de um vetor
-
-- **Descrição:**
-  - Crie um programa que leia 10 números inteiros e armazene em um vetor. Depois, separe em dois vetores, um de impares e outro de pares, depois exiba os números ímpares e os pares separadamente.
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec.git](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec.git)
+   ```
+2. Abra o Portugol Studio.
+3. No menu superior, clique em Arquivo > Abrir Arquivo.
+4. Selecione o arquivo .por referente ao exercício que deseja testar.
+5. Clique no botão Executar (Play).
 
 ---
 
-### Questão 4 - Função de potenciação sem biblioteca
+## 👥 Colaboradores
 
-- **Descrição:**
-  - Escreva uma função chamada potencia() que recebe dois números inteiros, base e expoente, e retorna o valor da potenciação sem usar a função pronta de potenciação ou biblioteca.
-
----
-
-### Questão 5 - Ordenação de um vetor sem biblioteca
-
-- **Descrição:**
-  - Crie um algoritmo que leia um vetor de 10 posições e depois ordene seus valores em ordem crescente sem usar funções prontas ou bibliotecas.
-
----
-
-### Questão 6 - Verificar se uma matriz 3x3 é identidade
-
-- **Descrição:**
-  - Faça um programa que leia uma matriz 3x3 e verifique se ela é uma matriz identidade. A matriz identidade é uma matriz quadrada onde os elementos da diagonal principal são iguais a 1 e os demais são iguais a 0.
-
----
-
-### Questão 7 - Verificar se um número é palíndromo
-
-- **Descrição:**
-  - Crie um programa que leia uma cadeia e determine se ela é um palíndromo _(ou seja, se ela pode ser lida da mesma forma de trás para frente)_.
-
----
-
-### Questão 8 - Verificar se um número é primo
-
-- **Descrição:**
-  - Escreva um programa que solicite ao usuário um número e informe se ele é primo ou não.
-
----
-
-### Questão 9 - Sequência de Fibonacci até N termos
-
-- **Descrição:**
-  - Crie um programa que gere os primeiros N termos da sequência de Fibonacci, onde N é informado pelo usuário.
-
----
-
-### Questão 10 - Inverter uma cadeia recursivamente
-
-- **Descrição:**
-  - Escreva uma função recursiva que inverta uma cadeia. Use a biblioteca Texto para contar e pegar os caracteres.
-
----
-
-### Questão 11 - Média dos números pares e ímpares de um vetor
-
-- **Descrição:**
-  - Desenvolva um algoritmo que receba um vetor de 10 números e retorne a média dos números pares e a média dos números ímpares separadamente.
-
----
-
-### Questão 12 - Cálculo do fatorial usando recursão
-
-- **Descrição:**
-  - Faça um programa que leia um número inteiro e calcule o fatorial desse número utilizando uma função recursiva.
-
----
-
-### Questão 13 - Encontrar o maior e o menor valor de uma matriz 4x4
-
-- **Descrição:**
-  - Crie um programa que leia uma matriz 4x4 e encontre o maior e o menor valor dessa matriz.
-
----
-
-### Questão 14 - Triangulo Retângulo de Altura N
-
-- **Descrição:**
-  - Desenvolva um algoritmo que solicite um valor inteiro N e imprima uma pirâmide numérica de altura N.
-
----
-
-### Questão 15 - Soma de Dois Vetores
-
-- **Descrição:**
-  - Crie um programa que leia dois vetores de 5 posições e gere um terceiro vetor contendo a soma dos valores nas respectivas posições.
-
----
-
-### Questão 16 - Contar Números Negativos em um Vetor
-
-- **Descrição:**
-  - Escreva uma função que receba um vetor de 10 números e retorne quantos são negativos.
-
----
-
-### Questão 17 - Média de Altura de Homens e Mulheres
-
-- **Descrição:**
-  - Faça um programa que leia a altura e o sexo de 5 pessoas e calcule a média da altura das mulheres e dos homens separadamente. O programa deve encerrar quando o usuário digitar uma altura negativa.
-
----
-
-### Questão 18 - Soma da Diagonal Secundária de uma Matriz 4x4
-
-- **Descrição:**
-  - Escreva um programa que calcule e exiba a soma dos elementos da diagonal secundária de uma matriz 4x4.
-
----
-
-### Questão 19 - Contar Números Positivos Até Entrada Negativa
-
-- **Descrição:**
-  - Desenvolva um algoritmo que leia um conjunto de números inteiros e pare a leitura quando um número negativo for digitado. Ao final, exiba quantos números positivos foram lidos.
-
----
-
-### Questão 20 - Sistema de Login com Bloqueio Após 3 Tentativas
-
-- **Descrição:**
-  - Crie um programa que simule um sistema de login. O programa deve pedir ao usuário um nome de login e uma senha. Se ele errar 3 vezes, o acesso deve ser bloqueado.
-
----
-
-### Questão 21 - Encontrar a Linha com Maior Soma em uma Matriz 5x5
-
-- **Descrição:**
-  - Desenvolva um algoritmo que leia uma matriz 5x5 e encontre a linha cuja soma dos elementos seja a maior entre todas.
+|                                                                Colaborador / Link pasta                                                                 |                link github                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------: |
+|            [**Enzo B. C. Costa**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Enzo%20B%20C%20Costa)            |   [GitHub](https://github.com/Onzecimo)   |
+|                [**Gabriel Ecard**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Gabriel%20Ecard)                | [GitHub](https://github.com/Gabrielw342)  |
+|        [**Lucas Leal da Silva**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Lucas%20Leal%20da%20SIlva)        |  [GitHub](https://github.com/Phonedison)  |
+| [**Pedro Henrique Gomes Mello**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Pedro%20Henrique%20Gomes%20Mello) | [GitHub](https://github.com/pedrohgmello) |
+|                                                           [**Valois Leite da Silva Costa**]()                                                           |                [GitHub]()                 |

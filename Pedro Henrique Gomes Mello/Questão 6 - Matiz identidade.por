@@ -1,3 +1,8 @@
+/*
+- **Descrição:**
+  - Faça um programa que leia uma matriz 3x3 e verifique se ela é uma matriz identidade. A matriz identidade é uma matriz quadrada onde os elementos da diagonal principal são iguais a 1 e os demais são iguais a 0.
+*/
+
 programa
 {
 	

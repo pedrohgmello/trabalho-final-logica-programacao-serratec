@@ -1,3 +1,8 @@
+/*
+- **Descrição:**
+  - Desenvolva um algoritmo que receba um vetor de 10 números e retorne a média dos números pares e a média dos números ímpares separadamente.
+*/
+
 programa
 {
 	inclua biblioteca Matematica --> mat

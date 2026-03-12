@@ -1,8 +1,13 @@
+/*
+**Descrição:**
+  - Faça um programa que leia um número inteiro e calcule o fatorial desse número utilizando uma função recursiva.
+*/
 programa
 {
 	
 	funcao inicio()
-	{
+	{
+
 		inteiro num, resultado
 		//Interage com o usuario
 		escreva("Digite um numero para calcular seu fatorial: ")

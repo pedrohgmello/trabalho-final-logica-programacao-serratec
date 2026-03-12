@@ -1,5 +1,4 @@
 /*
-Questão 10
 - **Descrição:**
   - Escreva uma função recursiva que inverta uma cadeia. Use a biblioteca Texto para contar e pegar os caracteres.
 */

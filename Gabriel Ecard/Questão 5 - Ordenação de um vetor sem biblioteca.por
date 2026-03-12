@@ -1,3 +1,9 @@
+/*
+- **Descrição:**
+  - Crie um algoritmo que leia um vetor de 10 posições e depois ordene seus valores em ordem crescente sem usar funções prontas ou bibliotecas.
+
+*/
+
 programa
 {
 	funcao inicio()

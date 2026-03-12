@@ -1,5 +1,4 @@
 /*
-Questão 16 - Contar Números Negativos em um Vetor
 - **Descrição:**
   - Escreva uma função que receba um vetor de 10 números e retorne quantos são negativos.
 */
