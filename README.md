@@ -181,9 +181,9 @@ _Abaixo estão os desafios abordados neste repositório. Clique em cada um para 
 
 |                                                                   Colaborador Link pasta                                                                    |                  link github                  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------: |
-|              [**Enzo B. C. Costa**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Enzo%20B%20C%20Costa)              |     [GitHub](https://github.com/Onzecimo)     |
-|                  [**Gabriel Ecard**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Gabriel%20Ecard)                  |   [GitHub](https://github.com/Gabrielw342)    |
+|        [**Enzo Bernado Carneiro Costa**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Enzo%20B%20C%20Costa)         |     [GitHub](https://github.com/Onzecimo)     |
+|          [**Gabriel Wendling Vieira Ecard**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Gabriel%20Ecard)          |   [GitHub](https://github.com/Gabrielw342)    |
 |          [**Lucas Leal da Silva**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Lucas%20Leal%20da%20SIlva)          |    [GitHub](https://github.com/Phonedison)    |
 |   [**Pedro Henrique Gomes Mello**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Pedro%20Henrique%20Gomes%20Mello)   |   [GitHub](https://github.com/pedrohgmello)   |
-|                [**Phelipe Damasio**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Phelipe%20Damasio)                | [GitHub](https://github.com/phelipe1327-cell) |
+|       [**Phelipe Damasio de Andrade Silva**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Phelipe%20Damasio)        | [GitHub](https://github.com/phelipe1327-cell) |
 | [**Valois Leite da Silva Costa**](https://github.com/pedrohgmello/trabalho-final-logica-programacao-serratec/tree/main/Valois%20Leite%20da%20Silva%20Costa) |    [GitHub](https://github.com/valois1961)    |
